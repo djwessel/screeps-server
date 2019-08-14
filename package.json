@@ -1,0 +1,12 @@
+{
+  "name": "my-screeps-world",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "screepsmod-admin-utils": "^1.5.0",
+    "screepsmod-auth": "^2.4.7",
+    "screepsmod-features": "^1.0.4",
+    "screepsmod-mongo": "^2.5.5",
+    "screepsmod-tickrate": "^1.0.7"
+  }
+}
